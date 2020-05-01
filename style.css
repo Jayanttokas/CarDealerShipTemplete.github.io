@@ -28,17 +28,16 @@ body {
   border-bottom: 2px solid white;
 }
 
+.card-img:hover{
+  position: relative;
+  bottom:10px;
+  box-shadow: 0px 1px 10px white;
+}
+
 .img-style-2{
   border-bottom:2px solid #fdfff5;
 }
 
-.card-img:hover{
-  position: relative;
-  bottom: 20px;
-  box-shadow: 0px 10px 50px 0px white;
-  border: 3px solid black;
-  border-radius: 10px;
-}
 
 .card-title, .card-text{
   font-family: 'Fugaz One', cursive;
