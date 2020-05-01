@@ -1,3 +1,15 @@
+/* Margin Querries */
+@media screen and (max-width: 760px) and (min-width: 470px) {
+  .rent {
+    margin-top: 40px !important;
+  }
+}
+@media screen and (max-width: 469px) {
+  .rent {
+    margin-top: 80px !important;
+  }
+}
+
 body {
   margin: 0px;
   padding: 0px;
