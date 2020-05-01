@@ -57,3 +57,39 @@ h1{
   bottom: 20px;
   box-shadow: 0px 5px 20px white;
 }
+
+@media only screen and (max-width: 766px) {
+  .card {
+    width: 15rem !important;
+  }
+}
+
+@media only screen and (max-width: 516px) {
+  .card {
+    width: 10rem !important;
+  }
+}
+
+@media only screen and (max-width: 764px) {
+  .container-fluid {
+    margin-bottom: 100px !important;
+  }
+}
+
+@media only screen and (max-width: 667px) {
+  .comp-pos{
+    font-size: 40px!important;
+  }
+}
+
+@media only screen and (max-width: 764px) {
+  .container-fluid {
+    margin-bottom: 100px !important;
+  }
+}
+
+@media only screen and (max-width: 423px) {
+  .comp-pos {
+    font-size: 40px!important;
+  }
+}
